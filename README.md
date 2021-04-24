@@ -1,6 +1,6 @@
 # FabsLang-Interpreter
 
-Easy programming language you can see
+Easiest programming language you can see
 
 | Command       | Explanation                     | 
 | ------------- | ------------------------------- |
