@@ -1,4 +1,4 @@
-# FabsLang-Interpreter
+# Fabs Lang Interpreter
 
 Easiest programming language you can see
 
